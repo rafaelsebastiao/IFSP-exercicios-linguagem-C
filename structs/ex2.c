@@ -56,8 +56,6 @@ int main(){
     return 0;
 }
 
-
-
 void leituraDados(Aluno alunos[], int n){
     int i = 0;
 
